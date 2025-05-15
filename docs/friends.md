@@ -62,3 +62,4 @@ Please, let me know so I can add your company name here.
 * EscapeNet (AS7600)
 * Productsup GmbH (AS200249)
 * QuxLabs (AS203038, AS214503)
+* WIN Technology (AS11796,AS26652)
